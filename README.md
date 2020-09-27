@@ -8,7 +8,6 @@
 
 ---
 ![Credits to breathtaking on Deviantart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/98925538-3bbc-4d81-8e5f-a35b87df58db/d8m8us0-6305e86b-3796-41e9-8b16-fdb725054cb2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOTg5MjU1MzgtM2JiYy00ZDgxLThlNWYtYTM1Yjg3ZGY1OGRiXC9kOG04dXMwLTYzMDVlODZiLTM3OTYtNDFlOS04YjE2LWZkYjcyNTA1NGNiMi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.xk7edy7LLDoTeMR5idtAURg2TGkNDbVTrVKsBxNUUX0)
-
 ![Credits to Kobaiy7598 on Deviantart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a9096536-f49a-473b-8a3f-9d6d80267535/dahylm4-5aab7158-185e-48dc-ab46-b8c5a16bfef9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYTkwOTY1MzYtZjQ5YS00NzNiLThhM2YtOWQ2ZDgwMjY3NTM1XC9kYWh5bG00LTVhYWI3MTU4LTE4NWUtNDhkYy1hYjQ2LWI4YzVhMTZiZmVmOS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.EZmFk5y4n4vFY8eopE5EcOgPTHpaNgs6SmjGQtGC3vE)
 <br/>
 *Bem vindos a minha área de estudo, aqui eu compartilho todas as minhas anotações e experiências sobre os mais diversos tópicos e matérias relacionadas a programação durante meus estudos e progresso para me tornar um programador.*
