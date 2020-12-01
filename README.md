@@ -3,8 +3,9 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Guilherme-G-Cadilhe">• 🗺 Perfil</a> 
-      <a href="https://github.com/Guilherme-G-Cadilhe/Cursos">• 🎓 Cursos e Aprendizados</a>  
+  <a href="https://github.com/Guilherme-G-Cadilhe">• 🗺 Perfil</a> |
+      <a href="https://github.com/Guilherme-G-Cadilhe/Cursos">• 🎓 Cursos e Aprendizados</a> |
+   <a href="https://github.com/Guilherme-G-Cadilhe/Projetos">• 🛠️ Projetos</a> 
 </p>
 
 ---
