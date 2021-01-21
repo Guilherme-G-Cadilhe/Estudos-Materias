@@ -16,7 +16,7 @@
 </p>
 
 ---
-*Bem-vindos a minha área de estudo, aqui eu compartilho todas as minhas anotações e experiências sobre os mais diversos tópicos e matérias relacionadas a programação durante meus estudos e progresso para me tornar um programador.*
+*Bem-vindos a minha área de estudo, aqui eu compartilho todas as minhas anotações e experiências sobre os mais diversos tópicos e matérias relacionadas a programação durante meus estudos na faculdade e progresso para me tornar um programador.*
 ---
 ![Credits to AngelicHellraiser on Deviantart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/211a4af8-f452-468b-b4d4-630a784a3973/da96pyg-3eca909c-2c1a-4a30-a054-6945748dbc89.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjExYTRhZjgtZjQ1Mi00NjhiLWI0ZDQtNjMwYTc4NGEzOTczXC9kYTk2cHlnLTNlY2E5MDljLTJjMWEtNGEzMC1hMDU0LTY5NDU3NDhkYmM4OS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.FI9gAB3rQL-ziEnOt0orKGUy4Is-orzQIT--H-I4GBA)
 ![Credits to AngelicHellraiser on Deviantart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/211a4af8-f452-468b-b4d4-630a784a3973/da96pyg-3eca909c-2c1a-4a30-a054-6945748dbc89.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjExYTRhZjgtZjQ1Mi00NjhiLWI0ZDQtNjMwYTc4NGEzOTczXC9kYTk2cHlnLTNlY2E5MDljLTJjMWEtNGEzMC1hMDU0LTY5NDU3NDhkYmM4OS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.FI9gAB3rQL-ziEnOt0orKGUy4Is-orzQIT--H-I4GBA)
