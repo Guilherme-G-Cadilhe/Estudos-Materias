@@ -36,6 +36,12 @@
 
 =---=
 
+### <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/85c5ceed-8005-4086-8c2a-416132953bbf/d1aeen0-6a0c2d51-bad8-4a47-95ef-00dbb6bb63e4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODVjNWNlZWQtODAwNS00MDg2LThjMmEtNDE2MTMyOTUzYmJmXC9kMWFlZW4wLTZhMGMyZDUxLWJhZDgtNGE0Ny05NWVmLTAwZGJiNmJiNjNlNC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.TwLNk88W5nak-o3D6QZj8CaEmjWEjeX3yJiHfTvJcGo" alt="Rollinghair Deviantart" width="35" height="35"/> Engenharia de Software
+- **Matérias -** *Introdução a Engenharia de Software / Reengenharia e Engenharia Reversa / Processos de Software / Modelos De Desenvolvimento / Planejamento e gerenciamento de projetos / Teste e Manutenção de Software / Ferramentas CASE e qualidade de Software*
+- **Descrição -** *O que é, como funciona, como planejar , que tipos de métodos existem, tipos de testes, e ferramentas*
+> <a href="https://www.evernote.com/l/As8VsRiQFuhHy5CI0G3FMaKxIOVaNh30b2o/">✏️ Anotações </a>
+
+=---=
 
 ### <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/85c5ceed-8005-4086-8c2a-416132953bbf/d1aeen0-6a0c2d51-bad8-4a47-95ef-00dbb6bb63e4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODVjNWNlZWQtODAwNS00MDg2LThjMmEtNDE2MTMyOTUzYmJmXC9kMWFlZW4wLTZhMGMyZDUxLWJhZDgtNGE0Ny05NWVmLTAwZGJiNmJiNjNlNC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.TwLNk88W5nak-o3D6QZj8CaEmjWEjeX3yJiHfTvJcGo" alt="Rollinghair Deviantart" width="35" height="35"/> Modelagem e Banco de Dados
 - **Matérias -** *Banco de Dados / Estapas de um projeto de BD / Modelo ER / Implementando Modelo Relacional / Ferramentas para Modelagem ER*
